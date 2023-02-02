@@ -1,0 +1,2 @@
+# SelfStudy
+just my thoughts
