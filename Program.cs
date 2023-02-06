@@ -1,10 +1,14 @@
-﻿namespace SelfStudy
+﻿using SelfStudy.Massanger;
+
+namespace SelfStudy
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            MassangerClass.Main1();
+
+
         }
     }
 }

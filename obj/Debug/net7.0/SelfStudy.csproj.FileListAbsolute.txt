@@ -1,0 +1,15 @@
+C:\Users\Windows_10\source\repos\SelfStudy\bin\Debug\net7.0\SelfStudy.exe
+C:\Users\Windows_10\source\repos\SelfStudy\bin\Debug\net7.0\SelfStudy.deps.json
+C:\Users\Windows_10\source\repos\SelfStudy\bin\Debug\net7.0\SelfStudy.runtimeconfig.json
+C:\Users\Windows_10\source\repos\SelfStudy\bin\Debug\net7.0\SelfStudy.dll
+C:\Users\Windows_10\source\repos\SelfStudy\bin\Debug\net7.0\SelfStudy.pdb
+C:\Users\Windows_10\source\repos\SelfStudy\obj\Debug\net7.0\SelfStudy.csproj.AssemblyReference.cache
+C:\Users\Windows_10\source\repos\SelfStudy\obj\Debug\net7.0\SelfStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows_10\source\repos\SelfStudy\obj\Debug\net7.0\SelfStudy.AssemblyInfoInputs.cache
+C:\Users\Windows_10\source\repos\SelfStudy\obj\Debug\net7.0\SelfStudy.AssemblyInfo.cs
+C:\Users\Windows_10\source\repos\SelfStudy\obj\Debug\net7.0\SelfStudy.csproj.CoreCompileInputs.cache
+C:\Users\Windows_10\source\repos\SelfStudy\obj\Debug\net7.0\SelfStudy.dll
+C:\Users\Windows_10\source\repos\SelfStudy\obj\Debug\net7.0\refint\SelfStudy.dll
+C:\Users\Windows_10\source\repos\SelfStudy\obj\Debug\net7.0\SelfStudy.pdb
+C:\Users\Windows_10\source\repos\SelfStudy\obj\Debug\net7.0\SelfStudy.genruntimeconfig.cache
+C:\Users\Windows_10\source\repos\SelfStudy\obj\Debug\net7.0\ref\SelfStudy.dll
